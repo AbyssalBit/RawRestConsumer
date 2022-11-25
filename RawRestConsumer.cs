@@ -8,28 +8,32 @@ using Helpers;
 
 namespace RequestGeneralApi
 {
-    internal sealed class RestConsumer
+    internal sealed class RawRestConsumer
         {
             private static readonly double TimeOut = "1";
-
             private static readonly string BaseApiUrl = "";
             private static readonly string AuthorizationKey = "";
-
             private readonly HttpClient Client = null;
-
-            private static readonly HttpClient GeneralClient = null;
-            private static readonly HttpClient MotorCalculoRestClient = null;
-            private static readonly HttpClient RawDataRestClient = null;
+            // private static readonly HttpClient MotorCalculoRestClient = null;
+            // private static readonly HttpClient RawDataRestClient = null;
 
             static RestConsumer()
                 {
-                
-                    GeneralClient = new HttpClient
+                    Client = new HttpClient
                         {
                             BaseAddress = new Uri(BaseApiUrl),
                             Timeout = TimeSpan.FromMinutes(TimeOut)
                         };
-
+            }
+            public RestConsumer(string ApiUrl, string AuthorizationKey)
+            {
+                Client = new HttpClient
+                    {
+                        BaseAddress = new Uri(BaseApiUrl),
+                        Timeout = TimeSpan.FromMinutes(TimeOut)
+                    };
+                Client.DefaultRequestHeaders.Add("authorization", AuthorizationKey);
+                
             }
             public T GetResponse<T, U>(string url, U obj)
             {
@@ -120,8 +124,6 @@ namespace RequestGeneralApi
                     //Console.WriteLine("type is Variable, value: " + variable.ToString());
                 }
             }
-
-
             private HttpContent CreateHttpContent<T>(T content)
             {
                 var json = JsonConvert.SerializeObject(content);
