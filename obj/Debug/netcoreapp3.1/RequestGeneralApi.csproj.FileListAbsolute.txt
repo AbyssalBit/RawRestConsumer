@@ -1,0 +1,16 @@
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.csproj.AssemblyReference.cache
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.AssemblyInfoInputs.cache
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.AssemblyInfo.cs
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.csproj.CoreCompileInputs.cache
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.exe
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.deps.json
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.runtimeconfig.json
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.runtimeconfig.dev.json
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.dll
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.pdb
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.dll
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.pdb
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.genruntimeconfig.cache
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.csproj.CopyComplete

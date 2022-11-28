@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GeoVictoria\\Documents\\Local_ASUSVivoBook\\LocalProjects\\RequestGeneralApi\\RequestGeneralApi\\RequestGeneralApi.csproj": {}
+    "C:\\Users\\Hans Hartmann\\Local_AbyrtxD\\Work_programm\\GeoVictoriaH\\repos_GeovH\\MyGit\\RawRestConsumer\\RequestGeneralApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GeoVictoria\\Documents\\Local_ASUSVivoBook\\LocalProjects\\RequestGeneralApi\\RequestGeneralApi\\RequestGeneralApi.csproj": {
+    "C:\\Users\\Hans Hartmann\\Local_AbyrtxD\\Work_programm\\GeoVictoriaH\\repos_GeovH\\MyGit\\RawRestConsumer\\RequestGeneralApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GeoVictoria\\Documents\\Local_ASUSVivoBook\\LocalProjects\\RequestGeneralApi\\RequestGeneralApi\\RequestGeneralApi.csproj",
+        "projectUniqueName": "C:\\Users\\Hans Hartmann\\Local_AbyrtxD\\Work_programm\\GeoVictoriaH\\repos_GeovH\\MyGit\\RawRestConsumer\\RequestGeneralApi.csproj",
         "projectName": "RequestGeneralApi",
-        "projectPath": "C:\\Users\\GeoVictoria\\Documents\\Local_ASUSVivoBook\\LocalProjects\\RequestGeneralApi\\RequestGeneralApi\\RequestGeneralApi.csproj",
-        "packagesPath": "C:\\Users\\GeoVictoria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GeoVictoria\\Documents\\Local_ASUSVivoBook\\LocalProjects\\RequestGeneralApi\\RequestGeneralApi\\obj\\",
+        "projectPath": "C:\\Users\\Hans Hartmann\\Local_AbyrtxD\\Work_programm\\GeoVictoriaH\\repos_GeovH\\MyGit\\RawRestConsumer\\RequestGeneralApi.csproj",
+        "packagesPath": "C:\\Users\\Hans Hartmann\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hans Hartmann\\Local_AbyrtxD\\Work_programm\\GeoVictoriaH\\repos_GeovH\\MyGit\\RawRestConsumer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\GeoVictoria\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Hans Hartmann\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +41,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,6 +58,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.29, 3.1.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

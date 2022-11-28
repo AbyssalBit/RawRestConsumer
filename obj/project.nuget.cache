@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QPNrXUml7VPzzioxAQgsvDCfNSEyxdGiqE6JUJZgQCUJ1exS/HrJNZVTb5anJTG8fV8Rp+mSxWOALTsQxv615w==",
+  "dgSpecHash": "CRAhsM6LB4/I2Gzdu0HlrzvwBmo5hbNnijsh/S/RITyoHgLW0zayu8CX6i8vqoiu2rQ76r+iA1rGrGDL8i2UGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GeoVictoria\\Documents\\Local_ASUSVivoBook\\LocalProjects\\RequestGeneralApi\\RequestGeneralApi\\RequestGeneralApi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Hans Hartmann\\Local_AbyrtxD\\Work_programm\\GeoVictoriaH\\repos_GeovH\\MyGit\\RawRestConsumer\\RequestGeneralApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hans Hartmann\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Hans Hartmann\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
   "logs": []
 }
