@@ -14,3 +14,19 @@ C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGi
 C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.genruntimeconfig.cache
 C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Hans Hartmann\Local_AbyrtxD\Work_programm\GeoVictoriaH\repos_GeovH\MyGit\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.csproj.CopyComplete
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.csproj.AssemblyReference.cache
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.AssemblyInfoInputs.cache
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.AssemblyInfo.cs
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.csproj.CoreCompileInputs.cache
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.dll
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.pdb
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.exe
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.deps.json
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.runtimeconfig.json
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.runtimeconfig.dev.json
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.dll
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\bin\Debug\netcoreapp3.1\RequestGeneralApi.pdb
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.csproj.CopyComplete
+C:\Users\GeoVictoria\Documents\Local_ASUSVivoBook\LocalProjects\RawRestConsumer\obj\Debug\netcoreapp3.1\RequestGeneralApi.genruntimeconfig.cache
